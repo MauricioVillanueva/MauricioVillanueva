@@ -125,12 +125,12 @@
 
 <p align="center">
   <a href="https://github.com/MauricioVillanueva">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MauricioVillanueva&theme=shades_of_purple&theme=radical" alt="Mauricio Villanueva's GitHub Contribution"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MauricioVillanueva&theme=shades_of_purple&bg_color=0D1117" alt="Mauricio Villanueva's GitHub Contribution"/>
   </a>
 </p>
 
 <a> 
-    <a href="https://github.com/MauricioVillanueva"><img alt="Mauricio Villanueva's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=MauricioVillanueva&show_icons=true&count_private=true&layout=compact&theme=shades_of_purple&bg_color=2d2b55&title_color=F85D7F&icon_color=b362ff&text_color=fad000" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/MauricioVillanueva"><img alt="Mauricio Villanueva's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=MauricioVillanueva&show_icons=true&count_private=true&layout=compact&theme=shades_of_purple&bg_color=0D1117&title_color=F85D7F&icon_color=b362ff&text_color=fad000" height="192px" width="49.5%"/></a>
   <a href="https://github.com/MauricioVillanueva"><img alt="Mauricio Villanueva's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=MauricioVillanueva&langs_count=8&layout=compact&theme=shades_of_purple&border=none&bg_color=0D1117&title_color=fad000&icon_color=b362ff" height="192px" width="49.5%"/></a>
   <br/>
 </a>
