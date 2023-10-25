@@ -102,6 +102,7 @@
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 
+<br/>
 
 <!-- ## Top Open Source -
 [![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/web-projects)
@@ -117,19 +118,23 @@
 <hr/>
 <br/>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MauricioVillanueva&theme=shades-of-purple&hide_border=true)](https://git.io/streak-stats)
+<p align="center">
+  <a href="https://github.com/MauricioVillanueva">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=MauricioVillanueva&theme=shades-of-purple&hide_border=true" alt="Mauricio's GitHub streak"/>
+  </a>
+</p>
 
 <p align="center">
-  <a href="https://github.com/alsiam">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alsiam&theme=radical" alt="Al Siam's GitHub Contribution"/>
+  <a href="https://github.com/MauricioVillanueva">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MauricioVillanueva&theme=shades_of_purple&theme=radical" alt="Mauricio Villanueva's GitHub Contribution"/>
   </a>
 </p>
 
 <a> 
-    <a href="https://github.com/alsiam"><img alt="Al Siam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=alsiam&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/alsiam"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=alsiam&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/MauricioVillanueva"><img alt="Mauricio Villanueva's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=MauricioVillanueva&show_icons=true&count_private=true&theme=shades_of_purple&bg_color=2d2b55&title_color=F85D7F&icon_color=b362ff&text_color=fad000" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/MauricioVillanueva"><img alt="Mauricio Villanueva's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=MauricioVillanueva&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=fad000&icon_color=b362ff" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
 
-![Al Siam's Graph](https://github-readme-activity-graph.vercel.app/graph?username=&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Mauricio Villanueva's Graph](https://github-readme-activity-graph.vercel.app/graph?username=MauricioVillanueva&custom_title=Mauricio%20Villanueva%27s%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=fad000&point=fad000&area_color=FFFFFF&title_color=FFFFFF&area=true)
