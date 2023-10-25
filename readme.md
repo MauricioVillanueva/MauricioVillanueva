@@ -56,7 +56,7 @@
  # About me
  
 <p>
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
+ <img align="right" width="350" src="https://cdn.dribbble.com/users/998745/screenshots/4862353/designer_vs_developer.gif" alt="Coding gif" />
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  🎨 &emsp; Passionate about design and best practices <br/><br/>
